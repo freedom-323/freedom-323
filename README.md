@@ -1,16 +1,28 @@
-## Hi there 👋
+## -=≡Σ((( つ•̀ω•́)つ
 
-<!--
-**freedom-323/freedom-323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是`freedom-323`，很高興認識您~
 
-Here are some ideas to get you started:
+### 一些不錯看的個人資訊:
+**性別**:男
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**居住地**:香港
+
+**最喜歡的顏色**:是淺綠哦(
+
+> ~還有嗎？沒有了
+
+## 我會的:
+Python
+
+Markdown
+
+JS
+
+CSS 4
+
+HTML 5
+
+YAML
+
+## 目前在做:
+###### ~一些有的沒的傻事~
