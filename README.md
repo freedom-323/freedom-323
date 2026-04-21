@@ -2,6 +2,8 @@
 
 我是`freedom-323`，很高興認識您~
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freedom-323)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 一些不錯看的個人資訊 :
 **性別** : 男
 
