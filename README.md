@@ -14,7 +14,7 @@
 > 還有嗎？沒有了
 
 ### 我會的 :
-- Python
+- Python 3
 - Markdown
 - JS
 - CSS 3/4
