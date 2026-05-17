@@ -26,6 +26,7 @@
 - ADB
 - Kali Linux
 - Solidity
+- Git Bash
 - Scratch 3 (當我沒說)
 
 ### 目前在做 :
