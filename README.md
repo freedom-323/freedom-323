@@ -23,6 +23,7 @@
 - Swift
 - ADB
 - Kali Linux
+- Solidity
 - Scratch 3 (當我沒說)
 
 ### 目前在做 :
