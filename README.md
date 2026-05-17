@@ -15,9 +15,11 @@
 
 ### 我會的 :
 - Python 3
+- TypeScript
 - Markdown
 - JS
 - CSS 3/4
+- SCSS
 - HTML 5
 - YAML
 - Swift
