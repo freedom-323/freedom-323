@@ -24,6 +24,7 @@
 - YAML
 - Swift
 - ADB
+- Rust
 - Kali Linux
 - Solidity
 - Git Bash
