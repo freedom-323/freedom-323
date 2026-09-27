@@ -20,7 +20,8 @@
 - JS
 - CSS 3/4
 - SCSS
-- HTML 5
+- HTML
+- Alpine.js
 - YAML
 - Swift
 - ADB
