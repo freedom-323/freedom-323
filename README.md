@@ -20,11 +20,15 @@
 - JS
 - CSS 3/4
 - SCSS
+- C++
+- C#
+- C
 - HTML
 - Alpine.js
 - YAML
 - Swift
 - ADB
+- Ruby
 - Rust
 - Kali Linux
 - Solidity
