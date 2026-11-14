@@ -2,7 +2,7 @@
 
 我是`freedom-323`，很高興認識您~
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=freedom-323)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-stats-extended.vercel.app/api?username=freedom-323)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ### 一些不錯看的個人資訊 :
 **性別** : 男
