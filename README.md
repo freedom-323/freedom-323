@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://keepandroidopen.org">
+    <img src="assets/keep-android-open.svg" alt="Android will become a locked-down platform in 2027">
+  </a>
+</p>
+
+
 ## -=≡Σ((( つ•̀ω•́)つ
 
 我是`freedom-323`，很高興認識您~
