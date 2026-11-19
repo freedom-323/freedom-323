@@ -9,6 +9,8 @@
 
 我是`freedom-323`，很高興認識您~
 
+**<fr323-0906@zitzhen.cn>**
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=freedom-323&hide_title=true&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=freedom-323&hide_title=true&show_icons=true&include_all_commits=true&theme=light_github)
 
 ### 一些不錯看的個人資訊 :
